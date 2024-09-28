@@ -74,8 +74,27 @@ This is a small project to compress any image into any MIME type and to change t
 
 ### License
 
-This project is open-source and free to use. Contributions are welcome!
+   IMAGE COMPRESSOR AND RESIZER - PHP based project
+   Copyright (C) 2024  Darshit Limbad
 
----
+   This program is free software: you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation, either version 3 of the License, any later version.
+
+   This program is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+
+   You should have received a copy of the GNU General Public License
+   along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
 
 Feel free to suggest improvements or report issues. Happy coding!
+
+### Contact
+
+For further information or support, please reach out at:
+
+- Email: darshitlimbad+git@example.com
+- LinkedIn: [DarshitLimbad](https://www.linkedin.com/in/darshit-limbad/)
